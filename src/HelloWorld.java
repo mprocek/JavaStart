@@ -6,6 +6,6 @@ class HelloWorld {
         //komentarz 1
         System.out.print("ABC3");
         System.out.println("asasa");
-
+        System.out.println("Nowy element kodu");
     }
 }
